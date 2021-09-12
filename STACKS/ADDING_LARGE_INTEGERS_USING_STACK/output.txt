@@ -1,0 +1,41 @@
+                        STACK OPERATION 
+
+ Enter two large No to be added
+
+ Enter the No 1 
+592
+
+Enter the No 2
+3484
+
+Both no added 
+
+
+The result is 
+
+
+        04076
+
+ Do you want to add again : Press Y 
+y
+
+                        STACK OPERATION 
+
+ Enter two large No to be added
+
+ Enter the No 1 
+2009
+
+Enter the No 2
+1900
+
+Both no added 
+
+
+The result is 
+
+
+        03909 
+
+ Do you want to add again : Press Y
+n
