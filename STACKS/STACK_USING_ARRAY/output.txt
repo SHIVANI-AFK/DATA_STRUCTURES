@@ -1,0 +1,93 @@
+MENU
+1. Push element        
+2. Pop element
+3. Find the top element
+4. Size of stack       
+5. Clear stack
+6. Display Stack       
+7. Exit
+Enter choice(1-7)      
+1
+Enter the element you wish to push in stack: 21
+21 
+Do you wish to continue(Y/N)?
+y
+MENU
+1. Push element        
+2. Pop element
+3. Find the top element
+4. Size of stack       
+5. Clear stack
+6. Display Stack       
+7. Exit
+Enter choice(1-7)      
+1
+Enter the element you wish to push in stack: 11
+21 11 
+Do you wish to continue(Y/N)?
+y
+MENU
+1. Push element        
+2. Pop element
+3. Find the top element
+4. Size of stack       
+5. Clear stack
+6. Display Stack       
+7. Exit
+Enter choice(1-7)      
+2
+The element you popped: 11
+21
+Do you wish to continue(Y/N)?
+y
+MENU
+1. Push element
+2. Pop element
+3. Find the top element
+4. Size of stack
+5. Clear stack
+6. Display Stack
+7. Exit
+Enter choice(1-7)
+5
+Do you wish to continue(Y/N)?
+y
+MENU
+1. Push element
+2. Pop element
+3. Find the top element
+4. Size of stack
+5. Clear stack
+6. Display Stack
+7. Exit
+Enter choice(1-7)      
+2
+The element you popped: 11
+21
+Do you wish to continue(Y/N)?
+y
+MENU
+1. Push element
+2. Pop element
+3. Find the top element
+4. Size of stack
+5. Clear stack
+6. Display Stack
+7. Exit
+Enter choice(1-7)
+5
+Do you wish to continue(Y/N)?
+y
+MENU
+1. Push element
+2. Pop element
+3. Find the top element
+4. Size of stack
+5. Clear stack
+6. Display Stack
+7. Exit
+Enter choice(1-7)
+6
+
+Do you wish to continue(Y/N)?
+n
