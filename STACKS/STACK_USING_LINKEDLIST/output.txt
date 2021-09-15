@@ -1,0 +1,68 @@
+MENU
+1. Push element        
+2. Pop element
+3. Find the top element
+4. Size of stack       
+5. Clear stack
+6. Display Stack       
+7. Exit
+Enter choice(1-7)      
+1
+
+Enter the inf of new node 12
+
+node created successfully 
+do you want to continue y 
+
+1. Push element        
+2. Pop element
+3. Find the top element
+4. Size of stack       
+5. Clear stack
+6. Display Stack       
+7. Exit
+Enter choice(1-7)
+1
+Enter the inf of new node 10
+
+node created successfully 
+do you want to continue y 
+1. Push element        
+2. Pop element
+3. Find the top element
+4. Size of stack       
+5. Clear stack
+6. Display Stack       
+7. Exit
+Enter choice(1-7)
+7
+The link list is        
+10
+12
+
+do you want to continue y
+
+1. Push element        
+2. Pop element
+3. Find the top element
+4. Size of stack       
+5. Clear stack
+6. Display Stack       
+7. Exit
+Enter choice(1-7)
+2
+
+do you want to continue y
+1. Push element        
+2. Pop element
+3. Find the top element
+4. Size of stack       
+5. Clear stack
+6. Display Stack       
+7. Exit
+Enter choice(1-7)
+7
+The link list is 
+12
+
+do you want to continue n
