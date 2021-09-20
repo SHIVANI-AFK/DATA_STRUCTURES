@@ -1,0 +1,6 @@
+Enter postfix expression to be evaluated : 10 2 8*+3-
+Result is: 23
+
+Enter postfix expression to be evaluated : 53+62/*35+
+Result is: 39
+
