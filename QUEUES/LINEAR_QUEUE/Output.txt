@@ -1,0 +1,45 @@
+Enter the size of queue : 4
+LINEAR QUEUE USING ARRAYS
+1.Insert
+2.Delete
+3.Peek
+4.Display
+Enter your choice: 1     
+
+Enter the element to be added: 12
+
+12
+Would You Like To Continue?(y/n)
+y
+LINEAR QUEUE USING ARRAYS
+1.Insert
+2.Delete
+3.Peek
+4.Display
+Enter your choice: 2     
+
+2is deleted
+
+Would You Like To Continue?(y/n)
+y
+LINEAR QUEUE USING ARRAYS
+1.Insert
+2.Delete
+3.Peek
+4.Display
+Enter your choice: 3     
+
+The First Element is 4
+
+Would You Like To Continue?(y/n)
+y
+LINEAR QUEUE USING ARRAYS
+1.Insert
+2.Delete
+3.Peek
+4.Display
+Enter your choice: 4
+
+
+Would You Like To Continue?(y/n)
+n
