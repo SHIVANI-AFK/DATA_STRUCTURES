@@ -1,3 +1,4 @@
+//LINEAR QUEUE USING ARRAY
 #include<iostream>
 using namespace std;
 
